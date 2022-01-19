@@ -43,6 +43,7 @@ Btn.addEventListener("click", function(){
         resultTrue.style.display="block";
         resultTrue.textContent="Girilen kimlik numarası sorunsuzdur";
     }
+    ID.value="";
 });
 
 
